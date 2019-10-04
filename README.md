@@ -2,4 +2,4 @@
 This is React Website with Bootstrap and Router.
 
 
-![Screenshot](screencapture01.png)
+![Screenshot](screencapture.png)
