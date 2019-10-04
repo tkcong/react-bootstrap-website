@@ -9,7 +9,7 @@ export default class CustomNavbar extends Component {
       <Navbar default collapseOnSelect>
         <Navbar.Header>
           <Navbar.Brand>
-            <Link to="/">CodeLife</Link>
+            <a href="https://github.com/seniordev-rt96" target={"_blank"}>seniordev-rt96</a>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>

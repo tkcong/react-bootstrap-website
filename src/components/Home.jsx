@@ -8,7 +8,7 @@ export default class Home extends Component {
     return (
       <Grid>
         <Jumbotron>
-          <h2>Welcome to CodeLife</h2>
+          <h2>Welcome to our Website!</h2>
           <p>This is how to build a website with React, React-Router & React-Bootstrap</p>
           <Link to="/about">
             <Button bsStyle="primary">Learn More</Button>
